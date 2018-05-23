@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Litten的博客</title>
-  <icon>https://www.gravatar.com/avatar/1b1060c5a2544f4ae03788a00f7c2c93</icon>
-  <subtitle>胆小认生，不易相处</subtitle>
+  <title>婵媛的小窝</title>
+  
+  <subtitle>这个小窝会存在很久 就像你在我心里永远挥之不去</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="//litten.me/"/>
@@ -10,8 +10,8 @@
   <id>//litten.me/</id>
   
   <author>
-    <name>Litten</name>
-    <email>litten225@qq.com</email>
+    <name>郑婵媛小朋友</name>
+    
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
