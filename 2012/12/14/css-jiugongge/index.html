@@ -5,29 +5,29 @@
   
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <link rel="dns-prefetch" href="//litten.me">
+  <link rel="dns-prefetch" href="">
   <title>css实现九宫格(一) | 婵媛的小窝</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="前段时间，我的 leader Henry在群里面分享了一道一淘的面试题。         题目非常的有趣，忙完前阵的工作之后突然记起，也尝试做了一下。  9个元素，每个50*50px，排成九宫格默认是border颜色为blue，hover到格子上变成red（兼容到IE6）">
 <meta name="keywords" content="css">
 <meta property="og:type" content="article">
 <meta property="og:title" content="css实现九宫格(一)">
-<meta property="og:url" content="//litten.me/2012/12/14/css-jiugongge/index.html">
+<meta property="og:url" content="/2012/12/14/css-jiugongge/index.html">
 <meta property="og:site_name" content="婵媛的小窝">
 <meta property="og:description" content="前段时间，我的 leader Henry在群里面分享了一道一淘的面试题。         题目非常的有趣，忙完前阵的工作之后突然记起，也尝试做了一下。  9个元素，每个50*50px，排成九宫格默认是border颜色为blue，hover到格子上变成red（兼容到IE6）">
 <meta property="og:locale" content="default">
-<meta property="og:image" content="//litten.me/assets/blogImg/jiugongge1.jpg">
-<meta property="og:image" content="//litten.me/assets/blogImg/jiugongge2.jpg">
-<meta property="og:image" content="//litten.me/assets/blogImg/jiugongge3.jpg">
-<meta property="og:image" content="//litten.me/assets/blogImg/jiugongge4.jpg">
-<meta property="og:image" content="//litten.me/assets/blogImg/jiugongge5.jpg">
-<meta property="og:image" content="//litten.me/assets/blogImg/jiugongge6.jpg">
-<meta property="og:image" content="//litten.me/assets/blogImg/jiugongge7.jpg">
+<meta property="og:image" content="/assets/blogImg/jiugongge1.jpg">
+<meta property="og:image" content="/assets/blogImg/jiugongge2.jpg">
+<meta property="og:image" content="/assets/blogImg/jiugongge3.jpg">
+<meta property="og:image" content="/assets/blogImg/jiugongge4.jpg">
+<meta property="og:image" content="/assets/blogImg/jiugongge5.jpg">
+<meta property="og:image" content="/assets/blogImg/jiugongge6.jpg">
+<meta property="og:image" content="/assets/blogImg/jiugongge7.jpg">
 <meta property="og:updated_time" content="2018-05-23T02:58:32.905Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="css实现九宫格(一)">
 <meta name="twitter:description" content="前段时间，我的 leader Henry在群里面分享了一道一淘的面试题。         题目非常的有趣，忙完前阵的工作之后突然记起，也尝试做了一下。  9个元素，每个50*50px，排成九宫格默认是border颜色为blue，hover到格子上变成red（兼容到IE6）">
-<meta name="twitter:image" content="//litten.me/assets/blogImg/jiugongge1.jpg">
+<meta name="twitter:image" content="/assets/blogImg/jiugongge1.jpg">
   
     <link rel="alternative" href="/atom.xml" title="婵媛的小窝" type="application/atom+xml">
   
@@ -301,7 +301,7 @@ var _hmt = _hmt || [];
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABxklEQVR42u3aS46DMBAFwNz/0sx2pAzmdRs7ZFReoSRAOYtWf/x6xev4tc6+Hd/1/puzu25YuLi409xjuN4fnfw+2VLzmbi4uBu54xecbSDZ5Pjz3ICLi/u93DxE4uLi/g/u+Hqm+MHFxX0mN09Wek2T+YQJFxd3JzfvUq67XtLfxcXFbXGPW1d1rFJ+Pi4u7hZuNegkuJlGSdROxcXF3c7NRyDVl+XbuCiocHFxP8StHs+qDlaTUBjVYbi4uFu4vaBT/SPyQBZlZLi4uIu55ZHnTWPXvL2Ci4u7h5u0LXqNj2qS1Ex3cHFxF3Dnmx3NZKXaEMHFxd3CnTkkkacytxU/uLi4G7nV0qVXOFUToIvkBhcX90Pc/Ns8n6oWVH+0SnFxcRdz83DWG6/ODGaiWg0XF3cBd2bs0Ru45pu5qNVwcXGXccvpRXGkWm2mROMcXFzcxdyjuGbSmnGZVDgngouLu5hbDUD56CUvqHqNV1xc3NXc3vGLJA2aKa5wcXGfwM2LnHsPcjVrNVxc3Mdwqy9LkqRy8YOLi/sw7opDGNWiCBcXdye32tzsFUvVdm00ZMXFxV3ArQ5Hk9AzH9pu6O/i4uJ2uD/u5RsxtvVPjgAAAABJRU5ErkJggg==" alt="微信分享二维码">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABuUlEQVR42u3aQY7DMAgF0N7/0h1ptqM6H4jdjPS8itrEedkgDLxe8Xr/rr+/fFq9PW9buLi4Y27y4ur1p3/Xz0Yfj4uLe5C7DjTVILUmrukXNlxc3Idx8/A3CWq4uLj/i1u9c30/Li7u87nJ4ad6QJp85A1nNVxc3AG3Wtzccb2xvouLi1vkvosrb4Ssn+otXFzcM9ykBZIXQKs79AoluLi4J7l3tT0S+ujghIuLu5mbFCbyRkjOaqZTuLi4R7iTwkfvCJRDLwqmuLi4B7l5SKpmUvkOyVO4uLj7uJM2am9gq1pOHXVlcXFxB9zeeESSDCVt1EKrFRcX9zi3Gryq6Ekgi3rCuLi427i9Auh89DN6Cy4u7kFuNaOolkR7o1oXnR9cXNxt3OqYxV0hbFSoxcXF3czNE5EqOi9/rHfAxcX9Frc3NlEewo4XLi7uE7j5qrZAqmWU8oQILi7uBu48uFSLqr1UqUzHxcUdcyet1jwx6n02Li7ud7nV4JVTJonLx7wMFxf3Mdyc3tshCpq4uLiP504Sl1EtBxcX9wg3H55Ypylz0G1lEVxc3AG3eQiJKZOAiIuLe5z7A9fvyZBqK7YMAAAAAElFTkSuQmCC" alt="微信分享二维码">
     </div>
 </div>
 

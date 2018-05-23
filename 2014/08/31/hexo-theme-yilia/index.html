@@ -5,14 +5,14 @@
   
   <meta name="renderer" content="webkit">
   <meta http-equiv="X-UA-Compatible" content="IE=edge" >
-  <link rel="dns-prefetch" href="//litten.me">
+  <link rel="dns-prefetch" href="">
   <title>Hexo主题Yilia | 婵媛的小窝</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="hexo-theme-yilia 是为 hexo 2.4+制作的主题。响应式设计，风格简约。 终于从octopress迁移到hexo。Yilia是自己设计的主题，分享之，有爱请自取。关于主题：  我喜欢简约。所以标签云，搜索框都拿掉了 接地气一点。所以用上了jiathis分享，友言评论，以及baidu的cdn 让大家把注意力放到内容上。这是本主题设计初衷 主题不支持IE6，7，8。以后也不会">
 <meta name="keywords" content="主题,hexo">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Hexo主题Yilia">
-<meta property="og:url" content="//litten.me/2014/08/31/hexo-theme-yilia/index.html">
+<meta property="og:url" content="/2014/08/31/hexo-theme-yilia/index.html">
 <meta property="og:site_name" content="婵媛的小窝">
 <meta property="og:description" content="hexo-theme-yilia 是为 hexo 2.4+制作的主题。响应式设计，风格简约。 终于从octopress迁移到hexo。Yilia是自己设计的主题，分享之，有爱请自取。关于主题：  我喜欢简约。所以标签云，搜索框都拿掉了 接地气一点。所以用上了jiathis分享，友言评论，以及baidu的cdn 让大家把注意力放到内容上。这是本主题设计初衷 主题不支持IE6，7，8。以后也不会">
 <meta property="og:locale" content="default">
@@ -318,7 +318,7 @@ var _hmt = _hmt || [];
     <a class="close js-modal-close" href="javascript:;"><i class="icon icon-close"></i></a>
     <p>扫一扫，分享到微信</p>
     <div class="wx-qrcode">
-      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMYAAADGCAAAAACs8KCBAAACKElEQVR42u3aQU4DMQwF0N7/0kVC7ID2f2eKaPKyQkxJ82ZhHNu3W7zun+v7z+t/m/zmsoWBgfG2jPvDlX/m8Z4zavG9GBgYBzCSrRNeftzvO+TBHQMDA2MlpfuNNHuKgYGBcRXjtxCcf769MGNgYJzJSC6xjw8647Wp5wV3cQwMjDdkrBT3X/3zH/U3MDAw/jHjXq6kGJeE16vO87U/BgbG1oxZqSs/etIGaINskeFiYGBsxJgV2togu1KGy18HBgbGfowkpCapWxuU8zcajWJgYGAcw8gDZX649mI8bFdgYGAcw2iPnoxKrLyIIjHFwMDYmpGX+GefzANrO1qBgYFxJmMWTNfHwmYX6R+eYmBgbMpYGW5YaQy0F+AnTzEwMI5ktF/Qtg3aZPFJMoqBgbE1o84iy2GLWcjOr8EYGBgnMNrRh3acdHas9tVgYGDszcjD63oZLkrvymGLW/tfAgMD420ZSUBcb0OuFODyc2JgYOzKmAXclTCdvKwkHcTAwDiBkRfCXsGoS//5sAUGBsamjPxWOCuHte3MfOADAwNjb8bsuPXWo3Jb+0IxMDB2ZdzLNWs3ztoMxW4YGBhbM9qhivZpG7jb8h8GBsY5jHzrdghsFprzQI+BgXEaY3astgB31VX2SScWAwPjYEaezCUthzz4RikpBgYGRnmsWQq40kzFwMA4gdEmfK8Ir3mrAAMD4zTGrDGQl96Ki2h5eb61CwMD4/0YHzK0FBnGBdfVAAAAAElFTkSuQmCC" alt="微信分享二维码">
+      <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK4AAACuCAAAAACKZ2kyAAABwklEQVR42u3aQW7DMAwEwP7/0+61QGthKUpEUIxOARLb4xwIkauvr3g9P9bbt+urfv/m7aoDCxcXt819luuNu36BBP12t/VL4uLiTnLX5SkvYclLdu6Pi4v7+dx1UUvKFi4u7n/ldjY9uLi4n8xNmp/qEKS6xTncq+Hi4ja4+ZTy3ucr811cXNwt7lNcSQE6Vfj+uDMuLu4I91Rj03nJ8nNxcXHHueswtXP8orptikJWXFzcC9y98KM6tkiuSp6Fi4s7z82PZO0FqJ0jX7i4uJPc9c4hL1KnDlhEElxc3EFufru8VOVhSWHYiouLO8hNxhx7Q9VkhJpvd3BxcSe5e0Uqf/ze71+bH1xc3EHuXqDSP6hRGMrg4uIOcvPYIwlZ+wORqPnBxcW9zN0LPKpNUR7VlJsfXFzca9xTW5Zq45QMR3Bxcee5e8UoD1mPLVxc3Mvcp7iShudsZIuLizvP7QSo1Yg0H50coOPi4ra5nQA12SrtBTCv/yguLu4gN486EtbZjUs0FsHFxf0AbjVY7bRDBwoZLi7uCLfaFHX+jmN1FxcXt8g9fEgi2PRUxyu4uLiT3Gr7cWp4uncUAxcX9zL3G2xXAS/iMg4vAAAAAElFTkSuQmCC" alt="微信分享二维码">
     </div>
 </div>
 
