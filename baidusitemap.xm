@@ -28,25 +28,6 @@
     
     
   <url>
-    <loc>//litten.me/2013/09/25/web-worker-learning/</loc>
-    <lastmod>2018-05-23T02:58:32.922Z</lastmod>
-    <data>
-        <display>
-        <title>web worker简易入门</title>
-        <pubTime>2013-09-25T02:55:00.000Z</pubTime>
-        
-        <tag>html5</tag>
-         
-        <tag>web</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>//litten.me/2015/02/23/yilia-on-mobile/</loc>
     <lastmod>2018-05-23T02:58:32.922Z</lastmod>
     <data>
@@ -66,14 +47,16 @@
 
     
   <url>
-    <loc>//litten.me/2014/08/22/two-magics-of-the-pilot/</loc>
-    <lastmod>2018-05-23T02:58:32.921Z</lastmod>
+    <loc>//litten.me/2013/09/25/web-worker-learning/</loc>
+    <lastmod>2018-05-23T02:58:32.922Z</lastmod>
     <data>
         <display>
-        <title>失眠故事三【飞行家的两个魔术】</title>
-        <pubTime>2014-08-21T20:23:00.000Z</pubTime>
+        <title>web worker简易入门</title>
+        <pubTime>2013-09-25T02:55:00.000Z</pubTime>
         
-        <tag>故事</tag>
+        <tag>html5</tag>
+         
+        <tag>web</tag>
          
          
            
@@ -121,6 +104,23 @@
 
     
   <url>
+    <loc>//litten.me/2014/08/22/two-magics-of-the-pilot/</loc>
+    <lastmod>2018-05-23T02:58:32.921Z</lastmod>
+    <data>
+        <display>
+        <title>失眠故事三【飞行家的两个魔术】</title>
+        <pubTime>2014-08-21T20:23:00.000Z</pubTime>
+        
+        <tag>故事</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>//litten.me/2014/08/20/three-drama/</loc>
     <lastmod>2018-05-23T02:58:32.921Z</lastmod>
     <data>
@@ -131,25 +131,6 @@
         <tag>旧事</tag>
          
         <tag>生活</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>//litten.me/2012/12/16/theme-update1-dot-0/</loc>
-    <lastmod>2018-05-23T02:58:32.920Z</lastmod>
-    <data>
-        <display>
-        <title>Blog主题更新-1.0</title>
-        <pubTime>2012-12-16T07:16:00.000Z</pubTime>
-        
-        <tag>octopress</tag>
-         
-        <tag>主题</tag>
          
          
            
@@ -178,6 +159,23 @@
 
     
   <url>
+    <loc>//litten.me/2016/01/04/the-storied-life-of-aj/</loc>
+    <lastmod>2018-05-23T02:58:32.920Z</lastmod>
+    <data>
+        <display>
+        <title>从《岛上书店》说开去</title>
+        <pubTime>2016-01-04T13:30:00.000Z</pubTime>
+        
+        <tag>旧事</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>//litten.me/2013/11/07/something-about-immersion/</loc>
     <lastmod>2018-05-23T02:58:32.920Z</lastmod>
     <data>
@@ -197,31 +195,16 @@
 
     
   <url>
-    <loc>//litten.me/2016/01/04/the-storied-life-of-aj/</loc>
+    <loc>//litten.me/2012/12/16/theme-update1-dot-0/</loc>
     <lastmod>2018-05-23T02:58:32.920Z</lastmod>
     <data>
         <display>
-        <title>从《岛上书店》说开去</title>
-        <pubTime>2016-01-04T13:30:00.000Z</pubTime>
+        <title>Blog主题更新-1.0</title>
+        <pubTime>2012-12-16T07:16:00.000Z</pubTime>
         
-        <tag>旧事</tag>
+        <tag>octopress</tag>
          
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>//litten.me/2014/05/27/safety-point-of-view-from-front-end/</loc>
-    <lastmod>2018-05-23T02:58:32.919Z</lastmod>
-    <data>
-        <display>
-        <title>前端安全冷门知识杂谈</title>
-        <pubTime>2014-05-27T15:52:00.000Z</pubTime>
-        
-        <tag>web</tag>
+        <tag>主题</tag>
          
          
            
@@ -239,6 +222,23 @@
         <pubTime>2012-12-17T11:43:00.000Z</pubTime>
         
         <tag>css</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>//litten.me/2014/05/27/safety-point-of-view-from-front-end/</loc>
+    <lastmod>2018-05-23T02:58:32.919Z</lastmod>
+    <data>
+        <display>
+        <title>前端安全冷门知识杂谈</title>
+        <pubTime>2014-05-27T15:52:00.000Z</pubTime>
+        
+        <tag>web</tag>
          
          
            
@@ -269,23 +269,6 @@
 
     
   <url>
-    <loc>//litten.me/2013/08/20/oauth-rabbit/</loc>
-    <lastmod>2018-05-23T02:58:32.918Z</lastmod>
-    <data>
-        <display>
-        <title>兔子，胡萝卜与OAuth的故事</title>
-        <pubTime>2013-08-20T04:55:00.000Z</pubTime>
-        
-        <tag>web</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>//litten.me/2017/07/09/prevent-spiders/</loc>
     <lastmod>2018-05-23T02:58:32.918Z</lastmod>
     <data>
@@ -296,6 +279,23 @@
         <tag>安全</tag>
          
         <tag>前端</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>//litten.me/2013/08/20/oauth-rabbit/</loc>
+    <lastmod>2018-05-23T02:58:32.918Z</lastmod>
+    <data>
+        <display>
+        <title>兔子，胡萝卜与OAuth的故事</title>
+        <pubTime>2013-08-20T04:55:00.000Z</pubTime>
+        
+        <tag>web</tag>
          
          
            
@@ -426,16 +426,14 @@
 
     
   <url>
-    <loc>//litten.me/2013/01/02/mediator-model/</loc>
+    <loc>//litten.me/2013/09/10/my-fairy-tale2/</loc>
     <lastmod>2018-05-23T02:58:32.916Z</lastmod>
     <data>
         <display>
-        <title>模式应用小分享——中介者模式(mediator)</title>
-        <pubTime>2013-01-02T04:36:00.000Z</pubTime>
+        <title>失眠故事二【梦中的小偷】【织梦人的表白】</title>
+        <pubTime>2013-09-10T02:55:00.000Z</pubTime>
         
-        <tag>coffeescript</tag>
-         
-        <tag>模式</tag>
+        <tag>故事</tag>
          
          
            
@@ -462,14 +460,35 @@
 
     
   <url>
-    <loc>//litten.me/2013/09/10/my-fairy-tale2/</loc>
+    <loc>//litten.me/2013/01/02/mediator-model/</loc>
     <lastmod>2018-05-23T02:58:32.916Z</lastmod>
     <data>
         <display>
-        <title>失眠故事二【梦中的小偷】【织梦人的表白】</title>
-        <pubTime>2013-09-10T02:55:00.000Z</pubTime>
+        <title>模式应用小分享——中介者模式(mediator)</title>
+        <pubTime>2013-01-02T04:36:00.000Z</pubTime>
         
-        <tag>故事</tag>
+        <tag>coffeescript</tag>
+         
+        <tag>模式</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>//litten.me/2014/01/10/lock-me-in-a-cup/</loc>
+    <lastmod>2018-05-23T02:58:32.915Z</lastmod>
+    <data>
+        <display>
+        <title>把自己锁在杯子里</title>
+        <pubTime>2014-01-10T12:30:00.000Z</pubTime>
+        
+        <tag>旧事</tag>
+         
+        <tag>药别停</tag>
          
          
            
@@ -521,44 +540,6 @@
 
     
   <url>
-    <loc>//litten.me/2014/01/10/lock-me-in-a-cup/</loc>
-    <lastmod>2018-05-23T02:58:32.915Z</lastmod>
-    <data>
-        <display>
-        <title>把自己锁在杯子里</title>
-        <pubTime>2014-01-10T12:30:00.000Z</pubTime>
-        
-        <tag>旧事</tag>
-         
-        <tag>药别停</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>//litten.me/2014/09/26/history-of-browser-useragent/</loc>
-    <lastmod>2018-05-23T02:58:32.914Z</lastmod>
-    <data>
-        <display>
-        <title>浏览器野史 UserAgent列传（上）</title>
-        <pubTime>2014-09-26T03:26:00.000Z</pubTime>
-        
-        <tag>web</tag>
-         
-        <tag>浏览器</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>//litten.me/2014/10/05/history-of-browser-useragent2/</loc>
     <lastmod>2018-05-23T02:58:32.914Z</lastmod>
     <data>
@@ -578,14 +559,16 @@
 
     
   <url>
-    <loc>//litten.me/2015/04/28/img-lazy-load/</loc>
+    <loc>//litten.me/2014/09/26/history-of-browser-useragent/</loc>
     <lastmod>2018-05-23T02:58:32.914Z</lastmod>
     <data>
         <display>
-        <title>说到加载图片，我们可以谈些什么</title>
-        <pubTime>2015-04-28T15:54:00.000Z</pubTime>
+        <title>浏览器野史 UserAgent列传（上）</title>
+        <pubTime>2014-09-26T03:26:00.000Z</pubTime>
         
-        <tag>js</tag>
+        <tag>web</tag>
+         
+        <tag>浏览器</tag>
          
          
            
@@ -616,6 +599,23 @@
 
     
   <url>
+    <loc>//litten.me/2015/04/28/img-lazy-load/</loc>
+    <lastmod>2018-05-23T02:58:32.914Z</lastmod>
+    <data>
+        <display>
+        <title>说到加载图片，我们可以谈些什么</title>
+        <pubTime>2015-04-28T15:54:00.000Z</pubTime>
+        
+        <tag>js</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>//litten.me/2012/12/13/hello-world/</loc>
     <lastmod>2018-05-23T02:58:32.913Z</lastmod>
     <data>
@@ -626,6 +626,25 @@
         <tag>杂谈</tag>
          
         <tag>octopress</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>//litten.me/2013/10/06/handling-asynchronous-js/</loc>
+    <lastmod>2018-05-23T02:58:32.913Z</lastmod>
+    <data>
+        <display>
+        <title>统一处理异步的js回调</title>
+        <pubTime>2013-10-06T02:55:00.000Z</pubTime>
+        
+        <tag>js</tag>
+         
+        <tag>web</tag>
          
          
            
@@ -675,42 +694,6 @@
 
     
   <url>
-    <loc>//litten.me/2013/10/06/handling-asynchronous-js/</loc>
-    <lastmod>2018-05-23T02:58:32.913Z</lastmod>
-    <data>
-        <display>
-        <title>统一处理异步的js回调</title>
-        <pubTime>2013-10-06T02:55:00.000Z</pubTime>
-        
-        <tag>js</tag>
-         
-        <tag>web</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>//litten.me/2016/08/01/gulangyu/</loc>
-    <lastmod>2018-05-23T02:58:32.912Z</lastmod>
-    <data>
-        <display>
-        <title>在鼓浪屿</title>
-        <pubTime>2016-07-31T17:36:00.000Z</pubTime>
-        
-        <tag>旅行</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>//litten.me/2015/02/21/guide-for-zb/</loc>
     <lastmod>2018-05-23T02:58:32.912Z</lastmod>
     <data>
@@ -747,6 +730,23 @@
 
     
   <url>
+    <loc>//litten.me/2016/08/01/gulangyu/</loc>
+    <lastmod>2018-05-23T02:58:32.912Z</lastmod>
+    <data>
+        <display>
+        <title>在鼓浪屿</title>
+        <pubTime>2016-07-31T17:36:00.000Z</pubTime>
+        
+        <tag>旅行</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>//litten.me/2014/07/25/folder-to-tree/</loc>
     <lastmod>2018-05-23T02:58:32.911Z</lastmod>
     <data>
@@ -757,23 +757,6 @@
         <tag>js</tag>
          
         <tag>工具</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>//litten.me/2016/02/13/feng-shui/</loc>
-    <lastmod>2018-05-23T02:58:32.911Z</lastmod>
-    <data>
-        <display>
-        <title>Minecraft与《协纪辨方书》</title>
-        <pubTime>2016-02-13T15:55:00.000Z</pubTime>
-        
-        <tag>旧事</tag>
          
          
            
@@ -808,6 +791,23 @@
         <display>
         <title>江南见闻</title>
         <pubTime>2017-05-22T02:36:00.000Z</pubTime>
+        
+        <tag>旧事</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>//litten.me/2016/02/13/feng-shui/</loc>
+    <lastmod>2018-05-23T02:58:32.911Z</lastmod>
+    <data>
+        <display>
+        <title>Minecraft与《协纪辨方书》</title>
+        <pubTime>2016-02-13T15:55:00.000Z</pubTime>
         
         <tag>旧事</tag>
          
@@ -855,12 +855,12 @@
 
     
   <url>
-    <loc>//litten.me/2017/01/26/diary-2017-0118-0125/</loc>
+    <loc>//litten.me/2017/02/19/diary-2017-0212-0218/</loc>
     <lastmod>2018-05-23T02:58:32.910Z</lastmod>
     <data>
         <display>
-        <title>回乡偶书 1.18 - 1.25</title>
-        <pubTime>2017-01-26T02:36:00.000Z</pubTime>
+        <title>决战前后 2.12 - 2.18</title>
+        <pubTime>2017-02-19T02:36:00.000Z</pubTime>
         
         <tag>旧事</tag>
          
@@ -872,12 +872,12 @@
 
     
   <url>
-    <loc>//litten.me/2017/02/19/diary-2017-0212-0218/</loc>
+    <loc>//litten.me/2017/01/26/diary-2017-0118-0125/</loc>
     <lastmod>2018-05-23T02:58:32.910Z</lastmod>
     <data>
         <display>
-        <title>决战前后 2.12 - 2.18</title>
-        <pubTime>2017-02-19T02:36:00.000Z</pubTime>
+        <title>回乡偶书 1.18 - 1.25</title>
+        <pubTime>2017-01-26T02:36:00.000Z</pubTime>
         
         <tag>旧事</tag>
          
@@ -1286,25 +1286,6 @@
 
     
   <url>
-    <loc>//litten.me/2012/12/18/assassins-creed/</loc>
-    <lastmod>2018-05-23T02:58:32.903Z</lastmod>
-    <data>
-        <display>
-        <title>记“刺客信条”三部曲：水月镜像，无心去来</title>
-        <pubTime>2012-12-18T15:23:00.000Z</pubTime>
-        
-        <tag>游戏</tag>
-         
-        <tag>旧事</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
     <loc>//litten.me/2014/02/12/about-pjax/</loc>
     <lastmod>2018-05-23T02:58:32.903Z</lastmod>
     <data>
@@ -1315,6 +1296,25 @@
         <tag>js</tag>
          
         <tag>html5</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>//litten.me/2012/12/18/assassins-creed/</loc>
+    <lastmod>2018-05-23T02:58:32.903Z</lastmod>
+    <data>
+        <display>
+        <title>记“刺客信条”三部曲：水月镜像，无心去来</title>
+        <pubTime>2012-12-18T15:23:00.000Z</pubTime>
+        
+        <tag>游戏</tag>
+         
+        <tag>旧事</tag>
          
          
            
